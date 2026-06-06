@@ -1,1 +1,0 @@
-# TUGAS_KKA_OOP
